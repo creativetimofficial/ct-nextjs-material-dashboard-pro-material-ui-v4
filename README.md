@@ -26,6 +26,7 @@ During the development of this dashboard, we have used many existing resources f
 + [React-nouislider](https://github.com/algolia/react-nouislider) for the nice and clean slider.
 + [React-tables](https://react-table.js.org/#/story/simple-table) for the nice and clean slider.
 + [React-tagsinput](https://github.com/olahol/react-tagsinput) for the easy and beatiful to use tags components.
++ [Nepcha Analytics](https://nepcha.com?ref=readme) for the analytics tool. Nepcha is already integrated with NextJS Material Dashboard PRO Material-UI v4. You can use it to gain insights into your sources of traffic.
 
 Let us know your thoughts below. And good luck with development!
 
@@ -358,6 +359,7 @@ At present, we officially aim to support the last two versions of the following 
 - License Agreement: https://www.creative-tim.com/license
 - Support: https://www.creative-tim.com/contact-us
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-nextjs-material-dashboard-pro-material-ui-v4/issues)
+- [Nepcha Analytics](https://nepcha.com?ref=readme) - Analytics tool for your website
 
 ### Kit Versions
 
